@@ -7,3 +7,5 @@ Restore
 Add new text
 
 sunday sunny day
+
+Edit same time
